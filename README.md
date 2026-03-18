@@ -15,7 +15,9 @@
 - 🌟 Open to future international opportunities !!!
 - 📍 Based in **Madrid, Spain**.
 
-![](https://komarev.com/ghpvc/?username=paula-ariascbz&style=for-the-badge&color=f4a7c1)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=paula-ariascbz&style=for-the-badge&color=f4a7c1"/>
+</p>
 
 ---
 
@@ -29,21 +31,21 @@
 
 ## 🛠️ Technologies & Tools
 
-| Category | Tools |
+| Category | Stack |
 |---|---|
-| **Languages** | Python, Java, SQL, C, Bash, Kotlin, R, JavaScript |
-| **Backend & Frameworks** | Spring, Node.js, React, Angular |
-| **Databases** | Oracle, MySQL, MongoDB |
-| **Cloud** | AWS, Azure, Google Cloud, Firebase |
-| **DevOps & Infra** | Docker, Kubernetes, Jenkins, Git, GitHub, Bitbucket, Apache |
-| **Tools & Platforms** | IntelliJ, VS Code, Android Studio, Jira, Confluence, Putty |
-| **Data / Analytics** | Oracle SQL, relational modeling, RStudio, Matlab |
-| **Design / Collaboration** | Figma, Canva, Trello |
-| **Operating Environments** | Linux |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
+| **Backend & Enterprise Development** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) |
+| **Databases & Data** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![IBM DB2](https://img.shields.io/badge/IBM_DB2-0033A0?logo=ibm&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Cloud, Platforms & AI Tooling** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) ![Cloud Code](https://img.shields.io/badge/Cloud_Code-4285F4?logo=googlecloud&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white) |
+| **DevOps, CI/CD & Code Quality** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) |
+| **Messaging & Streaming** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white) ![Confluent](https://img.shields.io/badge/Confluent-1F1F1F?logo=confluent&logoColor=white) |
+| **Tools & Platforms** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-0F172A?logo=codeium&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![PuTTY](https://img.shields.io/badge/PuTTY-4B8BBE?logo=windows-terminal&logoColor=white) |
+| **Operating Environments** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) |
+| **AI Tools & Assistants** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Cloud Code](https://img.shields.io/badge/Cloud_Code-4285F4?logo=googlecloud&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-0F172A?logo=codeium&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E8A0BF?logo=openai&logoColor=white) |
 
 ---
 
-## 🌸 About me
+## 🌸 More info
 
 ```yaml
 name: Paula Arias Cabezas
@@ -70,36 +72,13 @@ goals:
 
 ```
 
----
-
-## 🧰 My stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=paula-ariascbz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=paula-ariascbz&show_icons=true&theme=default&title_color=e8a0bf&icon_color=f4a7c1&text_color=6b4f5f&bg_color=fff7fb&border_color=f7c6d9&border_radius=10&count_private=true&include_all_commits=true"/>
+
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paula-ariascbz&layout=compact&title_color=e8a0bf&text_color=6b4f5f&bg_color=fff7fb&border_color=f7c6d9&border_radius=10" 
@@ -107,19 +86,6 @@ goals:
   />
 </div>
 
----
-
-## 🔥 My contribution stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=paula-ariascbz&locale=en&mode=daily&theme=default&hide_border=false&border_radius=10&background=FFF7FB&ring=F4A7C1&fire=E8A0BF&currStreakLabel=6B4F5F&sideLabels=6B4F5F&dates=A07C8F&border=F7C6D9" height="190" alt="GitHub Streak" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paula-ariascbz/paula-ariascbz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paula-ariascbz/paula-ariascbz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paula-ariascbz/paula-ariascbz/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
